@@ -1,12 +1,14 @@
-# CES-26 Atividades
+# CES-26 Activities
 
-## Tecnologias utilizadas
+## Used Technologies
 - CSS
 - HTML
 - Bootstrap 5
 - HTML Canvas
+- jQuery
 
-## Desafios e Soluções
+## Challenges and Solutions
 
-- Problema Lista 1: navbar repetida em todas as páginas
-  - Solução: criação de uma tag script que renderizava a navbar no inicio do body
+- Issue (List 1): Repeated navbar on all pages
+  - Solution: Created a script tag that rendered the navbar at the beginning of the body.
+
