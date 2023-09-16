@@ -6,6 +6,9 @@
 - Bootstrap 5
 - HTML Canvas
 - jQuery
+- Node
+- Axios
+- Express
 
 ## Challenges and Solutions
 
